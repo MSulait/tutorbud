@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917864404960",
+    "project_id": "tutorbud-76b14",
+    "storage_bucket": "tutorbud-76b14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917864404960:android:3bb6872a55390dd178bd85",
+        "android_client_info": {
+          "package_name": "com.example.tutorbud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuFqllS8ZYVz8LPJcPz4b4D0_siU_kQ-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
